@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+React hooks, modern CSS, swiper js, framer motion, Email js library, implement dark and light mode with the useContext hook.
+React Responsive Portfolio Website Using ReactJs
+Youtube link: https://www.youtube.com/watch?v=CKAn5dCK6RE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
